@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# Our Unbiased Search Engine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![logo](https://github.com/abdullahnaeem007/Truthlook-Frontend/assets/137498592/ccef3afc-f9a5-440a-abf2-5dbc42d22240)
 
-## Available Scripts
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Algorithm](#algorithm)
+- [Privacy](#privacy)
+- [Contributing](#contributing)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Introduction
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Our Unbiased Search Engine is a powerful tool designed to provide fair, non-partisan access to web content. By leveraging advanced algorithms, it scans billions of web pages to deliver relevant search results, untainted by personalized biases. Our mission is to promote user privacy and create a more open and equal internet experience for everyone.
 
-### `npm test`
+![truth1](https://github.com/abdullahnaeem007/Truthlook-Frontend/assets/137498592/236b4ad6-039e-45e9-ae20-45d442d3f078)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Unbiased Search Results:** Our search engine employs advanced algorithms to eliminate personalized biases and deliver objective search results.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Open and Equal Access:** Our goal is to foster an internet where all users have equal access to information, regardless of their backgrounds or preferences.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Search History Saved:** Our engine is built to save your history for your experience to be fast and reliable
 
-### `npm run eject`
+- **User-Friendly Interface:** The intuitive interface makes it easy for users to enter queries and obtain accurate results quickly.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Before you begin, ensure you have the following prerequisites:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- A modern web browser (Chrome, Firefox, Safari, etc.)
+- An internet connection
 
-## Learn More
+### Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+No installation is required for using the Our Unbiased Search Engine. Simply visit our website at [truthlook.com](https://truthlook.com/) and start searching for unbiased and relevant results.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Usage
 
-### Code Splitting
+1. Visit the [truthlook](https://truthlook.com/) website.
+2. In the search bar, enter your query.
+3. Press Enter or click the "Search" button.
+4. Browse through the unbiased search results.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Algorithm
 
-### Analyzing the Bundle Size
+Our Unbiased Search Engine uses a combination of natural language processing, indexing, and ranking algorithms to deliver relevant and non-biased search results. The engine evaluates web page content and metadata to determine its relevance to the user's query. The ranking algorithm ensures that results are presented based on their overall quality and relevance, without any personalization or bias.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![truth3 com](https://github.com/abdullahnaeem007/Truthlook-Frontend/assets/137498592/909ae40f-83a1-4fda-805f-fa5dd4f02af9)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contributing
 
-### Advanced Configuration
+We welcome contributions from the open-source community. If you're interested in contributing to the project, please follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. Fork the repository.
+2. Make your changes in a feature branch.
+3. Open a pull request describing your changes and the rationale behind them.
+4. Your pull request will be reviewed, and feedback will be provided.
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![truth2](https://github.com/abdullahnaeem007/Truthlook-Frontend/assets/137498592/66418ec7-2b7c-4465-9c49-deedab3f25e1)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Thank you for choosing Our Unbiased Search Engine. We believe in creating a digital world that is free from biases and respects individual privacy. If you have any questions or feedback, please don't hesitate to contact us at support@truthlook.com.

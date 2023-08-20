@@ -34,6 +34,14 @@ Our Unbiased Search Engine is a powerful tool designed to provide fair, non-part
 
 ## Getting Started
 
+## Technology Stack
+
+We utilize cutting-edge technologies to power Our Unbiased Search Engine, including:
+
+- **OpenAI:** We leverage OpenAI's advanced language models to gather unbiased results from the content we obtain through the Google API.
+
+- **Google API:** We use the Google API to retrieve web content, which is then processed by our algorithms to provide unbiased search results.
+
 ### Prerequisites
 
 Before you begin, ensure you have the following prerequisites:
